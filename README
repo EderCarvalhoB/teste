@@ -26,3 +26,44 @@ Em uma tigela ou na batedeira, adicione a farinha de trigo e depois misture nova
 Acrescente o fermento e misture lentamente com uma colher.
 Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos.
                              -------------------------------FIM-------------------------------
+
+repositoio de dados  = guardar os dados perdidos 
+Diretorio = ele contem as informaçoes .
+Git:
+ele pega o arquivos ele pegas as modificação , pega oque ele guardo , e compara coma diferença
+Git hub : um serviço que usa o git como serviço online em um servidor.
+Obs :
+Git checkout = pra sair o arquivo
+~ é usado para ir a pasta do usuario.
+
+Passo criar um repositorio:
+Gerenciador de arquivos , Documentos , Criar uma parta chamado projetos
+Botao direito , aperte Git bash here
+Botao direito criar um arquivo txt (voce n criou um repositorio)
+Git initi (sera criada uma pasta .git)
+Depois  inserir : git config user.name “Seu nome"
+Depois inserir git config user.email “seu email”
+Git add (escreva o nome do arquivo ou …)
+
+ escreva : commitment 
+Aperte a tecla I 
+Esc .. X
+Git log –oneline
+
+git config core.editor notepad.exe
+
+Caso aconteça modificação , aperte git add .
+Depois git commit
+
+Para voltar a versão 
+Git  checkout + a indentificação do commit
+Fazendo isso vc n perde o arquivo salvo no futuro
+
+Para voltar a ultima versão digite
+git checkout HEAD  voce volta pra ultima versao ou va para o indificação da ultima 
+GUI = Grafical user interface
+Escolha o diretoria da pasta 
+git branch = criar uma nova vertente 
+git checkout serve pra mudar de vertente
+para mesclar a vertente 2 com a principal voce digita git marge  , mas primeiro  voce tem que  ir  na primeira vertente
+git remote add  origin = indica que o repositorio , da aonde ele nasceu  .ou seja , vai ser vinculada ao git hub  ou a maquina local
