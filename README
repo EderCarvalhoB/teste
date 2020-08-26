@@ -27,6 +27,7 @@ Acrescente o fermento e misture lentamente com uma colher.
 Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos.
                              -------------------------------FIM-------------------------------
 
+<<<<<<< HEAD
 repositoio de dados  = guardar os dados perdidos 
 Diretorio = ele contem as informaçoes .
 Git:
@@ -67,3 +68,6 @@ git branch = criar uma nova vertente
 git checkout serve pra mudar de vertente
 para mesclar a vertente 2 com a principal voce digita git marge  , mas primeiro  voce tem que  ir  na primeira vertente
 git remote add  origin = indica que o repositorio , da aonde ele nasceu  .ou seja , vai ser vinculada ao git hub  ou a maquina local
+=======
+Mudei tudo agora :(
+>>>>>>> ManoBrown
